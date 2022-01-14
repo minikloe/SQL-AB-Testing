@@ -1,4 +1,4 @@
-# SQL-AB-Testing
+# SQL-AB-Testing (Learn SQL Basics for Data Science Specialization - Lesson 2: Data Wrangling, Analysis and AB Testing with SQL)
 
 Assignment Tasks
 
